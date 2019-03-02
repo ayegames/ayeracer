@@ -106,6 +106,7 @@ AC_CONFIG_FILES([
         build/Installer/Makefile
         data/Makefile
         data/char/Makefile
+        data/char/ayeman/Makefile
         data/char/beastie/Makefile
         data/char/boris/Makefile
         data/char/samuel/Makefile
