@@ -1,5 +1,5 @@
 
-SUBDIRS = etr tuxracer
+SUBDIRS = ayeracer etr tuxracer
 
 pkgdatadir = $(datadir)/$(PACKAGE)/env
 

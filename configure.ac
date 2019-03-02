@@ -160,6 +160,11 @@ AC_CONFIG_FILES([
         data/courses/extras/wild_ride/Makefile
         data/courses/extras/wild_west_chute_out/Makefile
         data/env/Makefile
+        data/env/ayeracer/Makefile
+        data/env/ayeracer/cloudy/Makefile
+        data/env/ayeracer/evening/Makefile
+        data/env/ayeracer/night/Makefile
+        data/env/ayeracer/sunny/Makefile
         data/env/etr/Makefile
         data/env/etr/cloudy/Makefile
         data/env/etr/evening/Makefile
