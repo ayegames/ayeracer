@@ -1,0 +1,6 @@
+./autogen.sh
+mkdir -p ayebuild
+pushd ayebuild
+../configure
+make && echo Please execute 'sudo make install' to install && exit
+echo ayebuild: Error during build
